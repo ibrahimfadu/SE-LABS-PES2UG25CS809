@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indexing>
+ <object alt="" name="Picture 1" object_type="graphic"/>
+ <paragraph index="12" node_type="writer">REQUIREMENTS ENGINEERING</paragraph>
+ <paragraph index="13" node_type="writer">Digital Art Commission &amp; Watermarking Portal</paragraph>
+ <object index="14" name="Table1" object_type="table"/>
+ <paragraph index="16" node_type="writer" parent_index="14">NAME</paragraph>
+ <paragraph index="19" node_type="writer" parent_index="14">IBRAHIM KHALEEL</paragraph>
+ <paragraph index="22" node_type="writer" parent_index="14">SRN</paragraph>
+ <paragraph index="25" node_type="writer" parent_index="14">PES2UG25CS809</paragraph>
+ <paragraph index="28" node_type="writer" parent_index="14">DATE</paragraph>
+ <paragraph index="31" node_type="writer" parent_index="14">20/08/2026</paragraph>
+ <paragraph index="34" node_type="writer" parent_index="14">DOMAIN</paragraph>
+ <paragraph index="37" node_type="writer" parent_index="14">Media, Events &amp; Community</paragraph>
+ <paragraph index="40" node_type="writer" parent_index="14">ACTORS</paragraph>
+ <paragraph index="43" node_type="writer" parent_index="14">Client / Buyer, Digital Artist</paragraph>
+ <paragraph index="46" node_type="writer" parent_index="14">PROJECT</paragraph>
+ <paragraph index="49" node_type="writer" parent_index="14">Digital Art Commission &amp; Watermarking Portal</paragraph>
+ <paragraph index="53" node_type="writer">1. FUNCTIONAL &amp; NON-FUNCTIONAL REQUIREMENTS</paragraph>
+ <object index="54" name="Table2" object_type="table"/>
+ <paragraph index="56" node_type="writer" parent_index="54">Req ID</paragraph>
+ <paragraph index="59" node_type="writer" parent_index="54">Type</paragraph>
+ <paragraph index="62" node_type="writer" parent_index="54">Description</paragraph>
+ <paragraph index="65" node_type="writer" parent_index="54">Priority</paragraph>
+ <paragraph index="68" node_type="writer" parent_index="54">Acceptance Criteria</paragraph>
+ <paragraph index="71" node_type="writer" parent_index="54">Rationale</paragraph>
+ <paragraph index="74" node_type="writer" parent_index="54">FR-001</paragraph>
+ <paragraph index="77" node_type="writer" parent_index="54">Functional</paragraph>
+ <paragraph index="80" node_type="writer" parent_index="54">The system shall allow Clients / Buyers to browse published digital artworks and view artwork details.</paragraph>
+ <paragraph index="83" node_type="writer" parent_index="54">High</paragraph>
+ <paragraph index="86" node_type="writer" parent_index="54">When a Client / Buyer opens the artwork gallery, all currently published artworks shall be displayed with their available details.</paragraph>
+ <paragraph index="89" node_type="writer" parent_index="54">Helps buyers discover artists and select suitable digital artwork.</paragraph>
+ <paragraph index="92" node_type="writer" parent_index="54">FR-002</paragraph>
+ <paragraph index="95" node_type="writer" parent_index="54">Functional</paragraph>
+ <paragraph index="98" node_type="writer" parent_index="54">The system shall allow Clients / Buyers to submit digital art commission requests to Digital Artists.</paragraph>
+ <paragraph index="101" node_type="writer" parent_index="54">High</paragraph>
+ <paragraph index="104" node_type="writer" parent_index="54">When valid commission details are submitted, the system shall create a commission request and make it available to the selected Digital Artist.</paragraph>
+ <paragraph index="107" node_type="writer" parent_index="54">Enables buyers to request customized digital artwork.</paragraph>
+ <paragraph index="110" node_type="writer" parent_index="54">FR-003</paragraph>
+ <paragraph index="113" node_type="writer" parent_index="54">Functional</paragraph>
+ <paragraph index="116" node_type="writer" parent_index="54">The system shall allow Digital Artists to accept, reject, and manage commission requests.</paragraph>
+ <paragraph index="119" node_type="writer" parent_index="54">High</paragraph>
+ <paragraph index="122" node_type="writer" parent_index="54">When an authorized Digital Artist updates a valid commission request, its status shall be updated and visible to the Client / Buyer.</paragraph>
+ <paragraph index="125" node_type="writer" parent_index="54">Supports organized commission workflow and communication.</paragraph>
+ <paragraph index="128" node_type="writer" parent_index="54">FR-004</paragraph>
+ <paragraph index="131" node_type="writer" parent_index="54">Functional</paragraph>
+ <paragraph index="134" node_type="writer" parent_index="54">The system shall allow Digital Artists to upload completed artwork and apply a watermark before delivery.</paragraph>
+ <paragraph index="137" node_type="writer" parent_index="54">High</paragraph>
+ <paragraph index="140" node_type="writer" parent_index="54">When a valid artwork file is uploaded, the system shall apply the configured watermark and make the watermarked version available for delivery.</paragraph>
+ <paragraph index="143" node_type="writer" parent_index="54">Protects artists' work from unauthorized reuse before final delivery.</paragraph>
+ <paragraph index="146" node_type="writer" parent_index="54">FR-005</paragraph>
+ <paragraph index="149" node_type="writer" parent_index="54">Functional</paragraph>
+ <paragraph index="152" node_type="writer" parent_index="54">The system shall allow Clients / Buyers to make payment and download the final watermarked artwork.</paragraph>
+ <paragraph index="155" node_type="writer" parent_index="54">High</paragraph>
+ <paragraph index="158" node_type="writer" parent_index="54">After a successful payment, the system shall confirm the transaction and allow the Client / Buyer to download the permitted artwork.</paragraph>
+ <paragraph index="161" node_type="writer" parent_index="54">Provides a complete commission-to-delivery process.</paragraph>
+ <paragraph index="164" node_type="writer" parent_index="54">FR-006</paragraph>
+ <paragraph index="167" node_type="writer" parent_index="54">Functional</paragraph>
+ <paragraph index="170" node_type="writer" parent_index="54">The system shall allow Digital Artists to publish completed digital artworks for browsing.</paragraph>
+ <paragraph index="173" node_type="writer" parent_index="54">Medium</paragraph>
+ <paragraph index="176" node_type="writer" parent_index="54">When an authorized Digital Artist selects Publish for a valid artwork, the artwork shall appear in the published artwork gallery.</paragraph>
+ <paragraph index="179" node_type="writer" parent_index="54">Helps artists showcase their work and attract potential clients.</paragraph>
+ <paragraph index="182" node_type="writer" parent_index="54">NFR-001</paragraph>
+ <paragraph index="185" node_type="writer" parent_index="54">Nonfunctional</paragraph>
+ <paragraph index="188" node_type="writer" parent_index="54">The system shall display artwork gallery, commission, and delivery pages within 3 seconds under normal operating conditions.</paragraph>
+ <paragraph index="191" node_type="writer" parent_index="54">High</paragraph>
+ <paragraph index="194" node_type="writer" parent_index="54">At least 9 out of 10 page-load tests shall complete within 3 seconds.</paragraph>
+ <paragraph index="197" node_type="writer" parent_index="54">Ensures a responsive user experience.</paragraph>
+ <paragraph index="200" node_type="writer" parent_index="54">NFR-002</paragraph>
+ <paragraph index="203" node_type="writer" parent_index="54">Nonfunctional</paragraph>
+ <paragraph index="206" node_type="writer" parent_index="54">The system shall restrict commission-management, artwork-upload, watermarking, and publishing operations to authorized Digital Artists.</paragraph>
+ <paragraph index="209" node_type="writer" parent_index="54">High</paragraph>
+ <paragraph index="212" node_type="writer" parent_index="54">An unauthorized Client / Buyer attempting to perform restricted operations shall be denied access in 100% of test attempts.</paragraph>
+ <paragraph index="215" node_type="writer" parent_index="54">Protects artwork and commission data from unauthorized modification.</paragraph>
+ <paragraph index="219" node_type="writer">2. UML USE-CASE DIAGRAM</paragraph>
+ <paragraph index="220" node_type="writer">The diagram models the two primary actors, their major interactions with the portal, and «include» / «extend» relationships.</paragraph>
+ <paragraph index="223" node_type="writer">3. USE-CASE FLOW SPECIFICATION</paragraph>
+ <paragraph index="224" node_type="writer">Use Case: Submit Digital Art Commission</paragraph>
+ <paragraph index="225" node_type="writer">Use Case ID: UC-01</paragraph>
+ <paragraph index="226" node_type="writer">Primary Actor: Client / Buyer</paragraph>
+ <paragraph index="227" node_type="writer">Preconditions</paragraph>
+ <paragraph index="228" node_type="writer">The Client / Buyer is authenticated in the Digital Art Commission &amp; Watermarking Portal.</paragraph>
+ <paragraph index="229" node_type="writer">The artwork gallery is accessible.</paragraph>
+ <paragraph index="230" node_type="writer">The selected Digital Artist is available for commissions.</paragraph>
+ <paragraph index="231" node_type="writer">The commission form is available.</paragraph>
+ <paragraph index="232" node_type="writer">Postconditions</paragraph>
+ <paragraph index="233" node_type="writer">A commission request is successfully created.</paragraph>
+ <paragraph index="234" node_type="writer">The request is associated with the selected Digital Artist and Client / Buyer.</paragraph>
+ <paragraph index="235" node_type="writer">The commission status is initialized for further processing.</paragraph>
+ <paragraph index="236" node_type="writer">The system displays a confirmation to the Client / Buyer.</paragraph>
+ <paragraph index="237" node_type="writer">Main Success Scenario</paragraph>
+ <paragraph index="238" node_type="writer">The Client / Buyer opens the artwork gallery.</paragraph>
+ <paragraph index="239" node_type="writer">The system displays published digital artworks.</paragraph>
+ <paragraph index="240" node_type="writer">The Client / Buyer selects an artwork or Digital Artist.</paragraph>
+ <paragraph index="241" node_type="writer">The system displays the relevant artwork and commission information.</paragraph>
+ <paragraph index="242" node_type="writer">The Client / Buyer selects the commission option.</paragraph>
+ <paragraph index="243" node_type="writer">The system validates the commission details.</paragraph>
+ <paragraph index="244" node_type="writer">The Client / Buyer submits the commission request.</paragraph>
+ <paragraph index="245" node_type="writer">The system creates the commission request and assigns it to the selected Digital Artist.</paragraph>
+ <paragraph index="246" node_type="writer">The system displays a confirmation message indicating that the request was submitted successfully.</paragraph>
+ <paragraph index="247" node_type="writer">Alternate Flow</paragraph>
+ <paragraph index="248" node_type="writer">AF-01: Commission Request Cannot Be Submitted</paragraph>
+ <paragraph index="249" node_type="writer">The Client / Buyer submits the commission request.</paragraph>
+ <paragraph index="250" node_type="writer">The system detects missing or invalid required information.</paragraph>
+ <paragraph index="251" node_type="writer">The system does not create the commission request.</paragraph>
+ <paragraph index="252" node_type="writer">The system displays a message identifying the required correction.</paragraph>
+ <paragraph index="253" node_type="writer">The Client / Buyer is returned to the commission form.</paragraph>
+ <paragraph index="255" node_type="writer">Use Case: Apply Watermark to Artwork</paragraph>
+ <paragraph index="256" node_type="writer">Use Case ID: UC-02</paragraph>
+ <paragraph index="257" node_type="writer">Primary Actor: Digital Artist</paragraph>
+ <paragraph index="258" node_type="writer">Brief Flow: The Digital Artist uploads completed artwork → the system validates the file → the system applies the configured watermark → the watermarked artwork is stored for protected delivery.</paragraph>
+</indexing>
