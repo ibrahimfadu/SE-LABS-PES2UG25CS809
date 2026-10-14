@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indexing>
+ <object alt="" name="Image1" object_type="graphic"/>
+ <object alt="" name="Image2" object_type="graphic"/>
+ <object alt="" name="Image3" object_type="graphic"/>
+ <object alt="" name="Image4" object_type="graphic"/>
+ <paragraph index="21" node_type="writer">NAME – Ibrahim khaleel</paragraph>
+ <paragraph index="22" node_type="writer">SECTION – D</paragraph>
+ <paragraph index="23" node_type="writer">SRN – PES2UG25CS809</paragraph>
+ <paragraph index="24" node_type="writer">LAB – 2</paragraph>
+ <paragraph index="26" node_type="writer">TITLE - Digital Art Commission Portal</paragraph>
+ <paragraph index="28" node_type="writer">DELIVERABLES</paragraph>
+ <paragraph index="30" node_type="writer">1. Jira Backlog with Epics &amp; User Stories</paragraph>
+ <paragraph index="35" node_type="writer">2. Story Point Assignments</paragraph>
+ <paragraph index="60" node_type="writer">3. Sprint Board / Active Sprint View</paragraph>
+ <paragraph index="66" node_type="writer">4. Burndown Chart</paragraph>
+ <paragraph index="86" node_type="writer">5. Brief Reflection Document answering the 4 reflection</paragraph>
+ <paragraph index="87" node_type="writer">questions:</paragraph>
+ <paragraph index="88" node_type="writer">i. Did your estimations reflect the actual effort?</paragraph>
+ <paragraph index="89" node_type="writer">Yes, the story point estimations were reasonably close</paragraph>
+ <paragraph index="90" node_type="writer">to the actual effort required. The Fibonacci scale helped</paragraph>
+ <paragraph index="91" node_type="writer">us differentiate between simple, moderate, and complex</paragraph>
+ <paragraph index="92" node_type="writer">tasks.</paragraph>
+ <paragraph index="93" node_type="writer">ii. Was your backlog well-prioritized?</paragraph>
+ <paragraph index="94" node_type="writer">Yes, the backlog was prioritized based on the</paragraph>
+ <paragraph index="95" node_type="writer">importance of each feature to the users and the overall</paragraph>
+ <paragraph index="96" node_type="writer">functionality of the system. High-priority features were</paragraph>
+ <paragraph index="97" node_type="writer">planned earlier in the sprints.</paragraph>
+ <paragraph index="98" node_type="writer">iii. How did your simulated sprint align with your</paragraph>
+ <paragraph index="99" node_type="writer">plan?</paragraph>
+ <paragraph index="100" node_type="writer">The simulated sprints generally followed the planned</paragraph>
+ <paragraph index="101" node_type="writer">backlog and allowed us to track the progress of the</paragraph>
+ <paragraph index="102" node_type="writer">selected user stories from To Do → In Progress →</paragraph>
+ <paragraph index="103" node_type="writer">Done.</paragraph>
+ <paragraph index="104" node_type="writer">iv. What insights did the burndown chart give</paragraph>
+ <paragraph index="105" node_type="writer">about your team’s capacity?CommentHighlight</paragraph>
+ <paragraph index="106" node_type="writer">The burndown chart helped us understand how quickly</paragraph>
+ <paragraph index="107" node_type="writer">work was being completed during the sprint. It also</paragraph>
+ <paragraph index="108" node_type="writer">showed the remaining workload and helped evaluate</paragraph>
+ <paragraph index="109" node_type="writer">the team's progress and capacity.</paragraph>
+</indexing>
